@@ -5,7 +5,7 @@
 # BCB 546X Python Assignment 
 # Date: 2025-06-05
 #
-# This notebook will:
+
 # 1. Load penguin cytochrome-b sequences (FASTA) and adult body mass data (CSV).
 # 2. Translate DNA→protein (two methods).
 # 3. Compute molecular weight and GC-content.
