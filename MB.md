@@ -1,6 +1,3 @@
-
-# Penguin Cytb Translation & Analysis
-
 # Memis Bilgici  
 # BCB 546X Python Assignment 
 # Date: 2025-06-05
